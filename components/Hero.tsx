@@ -5,7 +5,7 @@ export default function Hero(){
     <section className="relative h-screen overflow-hidden">
       {/* Background video */}
       <video
-        src="/videos/hero.mp4"
+        src="/videos/automotive.224e7418884105595114.mp4"
         className="absolute inset-0 w-full h-full object-cover"
         autoPlay
         muted
